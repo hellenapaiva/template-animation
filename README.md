@@ -1,3 +1,3 @@
-## Template animado utilizando framer-motion(ReactJS)
+# Template animado utilizando framer-motion(ReactJS)
 
 
